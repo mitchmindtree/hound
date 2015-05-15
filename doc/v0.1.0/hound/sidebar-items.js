@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["WavSpec","Specifies properties of the audio data."],["WavWriter","A writer that accepts samples and writes the WAVE format."]],"trait":[["Sample","A type that can be used to represent audio samples."]]});
